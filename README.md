@@ -6,7 +6,7 @@ returnHTML(element, attrs, child)
 
 example: 
 
-document.getElementById("root").appendChild(
+`document.getElementById("root").appendChild(
   returnHTML(
     "div",
     {
@@ -17,4 +17,4 @@ document.getElementById("root").appendChild(
     },
     "Hello, I am the new HTML"
   )
-);
+);`
