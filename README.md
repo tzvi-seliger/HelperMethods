@@ -1,5 +1,5 @@
 # HelperMethods
-JavaScript Helper Methods
+# JavaScript Helper Methods
 Method Signatures
 
 returnHTML(element, attrs, child)
